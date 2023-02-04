@@ -6,7 +6,7 @@
 
 ### Demo:
 
-[GitHub Pages](https://woowooyong.github.io/Team-Rocket-12th-week1-My-First-Resume/)
+[GitHub Pages](https://woowooyong.github.io/Team-Rocket-12th-week1-My-Resume/)
 
 ### 練習技術:
 
